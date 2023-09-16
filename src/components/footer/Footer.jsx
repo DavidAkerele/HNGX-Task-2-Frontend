@@ -33,7 +33,7 @@ const Footer = () => {
           <div className="copyright">
             <p>© 2023 MovieBox by </p>
             &nbsp;
-            <p> Mustapha Samuel</p>
+            <p> Akerele David</p>
           </div>
         </div>
       </div>
